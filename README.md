@@ -1,4 +1,3 @@
-
 <br>I am a dedicated B.Tech Computer Science and Engineering student at SISTEC College, Bhopal, with a clear focus on building a career as a Software Developer. I am passionate about learning core programming concepts and applying theoretical knowledge to practical challenges. To actively expand my skill set, I am actively seeking opportunities to participate in hackathons, technical workshops, and collaborative coding projects. I am eager to connect with like-minded peers and industry professionals to continuously learn, adapt, and grow within the tech ecosystem.<br>
 
 
